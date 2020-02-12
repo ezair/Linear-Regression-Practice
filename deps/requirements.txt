@@ -1,5 +1,8 @@
+# ML lib that we will use.
 turicreate
 
+# For using jupyter notebook.
 jupyter
 
-conda
+# for making graphs.
+matplotlib
