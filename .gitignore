@@ -1,3 +1,6 @@
+# My settings do not need to be in here.
+.vscode
+
 # No need to have these, state is not an issue.
 .ipynb_checkpoints
 
