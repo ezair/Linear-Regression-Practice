@@ -9,3 +9,4 @@ __pycache__
 
 # In case .csv is in use.
 .~lock.
+.history
